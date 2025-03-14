@@ -2,7 +2,8 @@
     "version": 2,
     "name": "disqusjs-proxy",
     "alias": [
-        "[Place Your Domain Here]"
+        "disqusjs.robberphex.com",
+        "disqusjs.0rtt.net"
     ],
     "routes": [
         {
