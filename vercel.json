@@ -9,7 +9,8 @@
         {
             "src": "/(.*)",
             "headers": {
-                "cache-control": "public, max-age=60"
+                "cache-control": "public, max-age=60",
+                "Access-Control-Allow-Origin": "https://robberphex.com"
             },
             "dest": "https://disqus.com/api/$1"
         }
